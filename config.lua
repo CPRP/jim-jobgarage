@@ -1071,6 +1071,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fordambo"] = {
@@ -1084,6 +1085,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arroweng"] = {
@@ -1097,12 +1099,13 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd1"] = {
 						CustomName = "Fire Engine",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 6, 7, 11 },
+						extras = { 1, 2, 3, 4, 6, 7, 10, 11 },
 						rank = { 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
@@ -1110,6 +1113,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowladder"] = {
@@ -1123,6 +1127,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdatv"] = {
@@ -1136,6 +1141,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["FD8"] = {
@@ -1149,6 +1155,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd6"] = {
@@ -1162,6 +1169,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd13"] = {
@@ -1175,6 +1183,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["21firedurango"] = {
@@ -1188,6 +1197,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdfmo1"] = {
@@ -1201,6 +1211,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowrescue"] = {
@@ -1214,6 +1225,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["20ramambo"] = {
@@ -1227,6 +1239,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 				},
@@ -1249,6 +1262,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fordambo"] = {
@@ -1262,6 +1276,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arroweng"] = {
@@ -1275,12 +1290,13 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd1"] = {
 						CustomName = "Fire Engine",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 6, 7, 11 },
+						extras = { 1, 2, 3, 4, 6, 7, 10, 11 },
 						rank = { 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
@@ -1288,6 +1304,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowladder"] = {
@@ -1301,6 +1318,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdatv"] = {
@@ -1314,6 +1332,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["FD8"] = {
@@ -1327,6 +1346,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd6"] = {
@@ -1340,6 +1360,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd13"] = {
@@ -1353,6 +1374,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["21firedurango"] = {
@@ -1366,6 +1388,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdfmo1"] = {
@@ -1379,6 +1402,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowrescue"] = {
@@ -1392,6 +1416,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["20ramambo"] = {
@@ -1405,6 +1430,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 				},
@@ -1427,6 +1453,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fordambo"] = {
@@ -1440,6 +1467,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arroweng"] = {
@@ -1453,12 +1481,13 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd1"] = {
 						CustomName = "Fire Engine",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 6, 7, 11 },
+						extras = { 1, 2, 3, 4, 6, 7, 10, 11 },
 						rank = { 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
@@ -1466,6 +1495,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowladder"] = {
@@ -1479,6 +1509,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdatv"] = {
@@ -1492,6 +1523,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["FD8"] = {
@@ -1505,6 +1537,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd6"] = {
@@ -1518,6 +1551,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd13"] = {
@@ -1531,6 +1565,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["21firedurango"] = {
@@ -1544,6 +1579,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdfmo1"] = {
@@ -1557,6 +1593,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowrescue"] = {
@@ -1570,6 +1607,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["20ramambo"] = {
@@ -1583,6 +1621,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 				},
@@ -1605,6 +1644,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fordambo"] = {
@@ -1618,6 +1658,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arroweng"] = {
@@ -1631,12 +1672,13 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd1"] = {
 						CustomName = "Fire Engine",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 6, 7, 11 },
+						extras = { 1, 2, 3, 4, 6, 7, 10, 11 },
 						rank = { 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
@@ -1644,6 +1686,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowladder"] = {
@@ -1657,6 +1700,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdatv"] = {
@@ -1670,6 +1714,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["FD8"] = {
@@ -1683,6 +1728,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd6"] = {
@@ -1696,6 +1742,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd13"] = {
@@ -1709,6 +1756,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["21firedurango"] = {
@@ -1722,6 +1770,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdfmo1"] = {
@@ -1735,6 +1784,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowrescue"] = {
@@ -1748,6 +1798,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["20ramambo"] = {
@@ -1761,6 +1812,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 				},
@@ -1783,6 +1835,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fordambo"] = {
@@ -1796,6 +1849,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arroweng"] = {
@@ -1809,12 +1863,13 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd1"] = {
 						CustomName = "Fire Engine",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 6, 7, 11 },
+						extras = { 1, 2, 3, 4, 6, 7, 10, 11 },
 						rank = { 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
@@ -1822,6 +1877,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowladder"] = {
@@ -1835,6 +1891,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdatv"] = {
@@ -1848,6 +1905,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["FD8"] = {
@@ -1861,6 +1919,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd6"] = {
@@ -1874,6 +1933,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd13"] = {
@@ -1887,6 +1947,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["21firedurango"] = {
@@ -1900,6 +1961,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdfmo1"] = {
@@ -1913,6 +1975,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowrescue"] = {
@@ -1926,6 +1989,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["20ramambo"] = {
@@ -1939,11 +2003,13 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 				},
 			},
 		},
+
 		{ 	zoneEnable = true, -- Medical 5
 			job = "ambulance",
 			garage = {
@@ -1961,6 +2027,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fordambo"] = {
@@ -1974,6 +2041,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arroweng"] = {
@@ -1987,12 +2055,13 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd1"] = {
 						CustomName = "Fire Engine",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 6, 7, 11 },
+						extras = { 1, 2, 3, 4, 6, 7, 10, 11 },
 						rank = { 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
@@ -2000,6 +2069,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowladder"] = {
@@ -2013,6 +2083,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdatv"] = {
@@ -2026,6 +2097,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["FD8"] = {
@@ -2039,6 +2111,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd6"] = {
@@ -2052,6 +2125,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd13"] = {
@@ -2065,6 +2139,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["21firedurango"] = {
@@ -2078,6 +2153,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdfmo1"] = {
@@ -2091,6 +2167,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowrescue"] = {
@@ -2104,6 +2181,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["20ramambo"] = {
@@ -2117,6 +2195,122 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+						},
+					},
+				},
+			},
+		},
+		{ 	zoneEnable = true, -- Medical 5.5
+			job = "ambulance",
+			garage = {
+				spawn = vector4(1638.73, 3653.17, 35.24, 54.17),
+				out = vector4(1644.92, 3664.24, 35.34, 115.08),
+				list = {
+					["firehawk"] = {
+						CustomName = "firehawk",
+						livery = 0,
+						extras = { 1, 2, 5, 6, 7, 8, 9, 11, 12},
+						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+						},
+					},
+					["aw139"] = {
+						CustomName = "aw139",
+						livery = 2,
+						extras = { 1, 2, 3, 5, 6, 7, 8, 9, 10 },
+						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 10, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 5, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+						},
+					},
+					["polmav"] = {
+						CustomName = "polmav",
+						livery = 1,
+						extras = { 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12 },
+						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 10, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 6, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+						},
+					},
+
+				},
+			},
+		},
+		{ 	zoneEnable = true, -- LSPD 8047
+		job = "police",
+		garage = {
+			spawn = vector4(446.35, -981.3, 43.69, 91.65),
+			out = vector4(456.62, -982.32, 43.69, 181.07),
+			list = {
+					["as350"] = {
+						CustomName = "as350",
+						livery = 0,
+						extras = { 1, 2, 5, 6, 7, 8, 9, 11, 12},
+						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+						},
+					},
+					["polmav"] = {
+						CustomName = "polmav",
+						livery = 0,
+						extras = { 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12 },
+						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 10, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 5, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+					
+				
+						},
+					},
+
+				},
+			},
+		},
+		{ 	zoneEnable = true, -- Sandy 3004
+		job = "police",
+		garage = {
+			spawn = vector4(1853.45, 3706.15, 33.97, 25.88),
+			out = vector4(1844.39, 3709.03, 33.97, 212.17),
+			list = {
+					["as332"] = {
+						CustomName = "as332",
+						livery = 0,
+						extras = { 1, 2, 5, 6, 7, 8, 9, 11, 12},
+						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 				},
@@ -2139,6 +2333,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fordambo"] = {
@@ -2152,6 +2347,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arroweng"] = {
@@ -2165,12 +2361,13 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd1"] = {
 						CustomName = "Fire Engine",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 6, 7, 11 },
+						extras = { 1, 2, 3, 4, 6, 7, 10, 11 },
 						rank = { 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
@@ -2178,6 +2375,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowladder"] = {
@@ -2191,6 +2389,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdatv"] = {
@@ -2204,6 +2403,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["FD8"] = {
@@ -2217,6 +2417,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd6"] = {
@@ -2230,6 +2431,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fd13"] = {
@@ -2243,6 +2445,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["21firedurango"] = {
@@ -2256,6 +2459,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["fdfmo1"] = {
@@ -2269,6 +2473,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["arrowrescue"] = {
@@ -2282,6 +2487,7 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["20ramambo"] = {
@@ -2295,10 +2501,13 @@ Config = {
 							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
 						},
 					},
 				},
 			},
 		}
+
 	},
 }
+
