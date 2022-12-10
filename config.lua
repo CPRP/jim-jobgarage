@@ -38,6 +38,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code310charg"] = {
@@ -50,6 +51,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code314charg"] = {
@@ -62,6 +64,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code316fpiu"] = {
@@ -74,6 +77,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3fpis"] = {
@@ -86,6 +90,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3f150"] = {
@@ -98,6 +103,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code314tahoe"] = {
@@ -110,6 +116,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code318charg"] = {
@@ -122,6 +129,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3durango"] = {
@@ -134,6 +142,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code320exp"] = {
@@ -146,6 +155,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3silverado"] = {
@@ -158,6 +168,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3f250"] = {
@@ -170,6 +181,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code318tahoe"] = {
@@ -182,6 +194,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3ram"] = {
@@ -194,6 +207,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code319silv"] = {
@@ -206,6 +220,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["umdemon"] = {
@@ -218,6 +233,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["umc8"] = {
@@ -230,6 +246,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["um2020camaro"] = {
@@ -242,6 +259,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["mach1rb"] = {
@@ -254,6 +272,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["poldemonrb"] = {
@@ -266,6 +285,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["zr1rb"] = {
@@ -278,6 +298,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 				},
@@ -299,6 +320,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code310charg"] = {
@@ -311,6 +333,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code314charg"] = {
@@ -323,6 +346,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code316fpiu"] = {
@@ -335,6 +359,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3fpis"] = {
@@ -347,6 +372,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3f150"] = {
@@ -359,6 +385,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code314tahoe"] = {
@@ -371,6 +398,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code318charg"] = {
@@ -383,6 +411,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3durango"] = {
@@ -395,6 +424,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code320exp"] = {
@@ -407,6 +437,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3silverado"] = {
@@ -419,6 +450,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3f250"] = {
@@ -431,6 +463,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code318tahoe"] = {
@@ -443,6 +476,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3ram"] = {
@@ -455,6 +489,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code319silv"] = {
@@ -467,6 +502,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["umdemon"] = {
@@ -479,6 +515,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["umc8"] = {
@@ -491,6 +528,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["um2020camaro"] = {
@@ -503,6 +541,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["mach1rb"] = {
@@ -515,6 +554,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["poldemonrb"] = {
@@ -527,6 +567,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["zr1rb"] = {
@@ -539,11 +580,352 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 				},
 			},
 		},
+
+		---TOP---------------------------------------------------------------------------------------------------------
+
+		{ 	zoneEnable = true, --STATE POLICE
+			job = "police",
+			garage = {
+				spawn = vector4(1535.99, 797.73, 77.11, 61.42),
+				out = vector4(1541.74, 804.4, 77.01, 160.43),
+				list = {
+					["libertycvpi"] = {
+						CustomName = "CPVI",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 9, 10, 11 },
+						rank = { 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["libertygator"] = {
+						CustomName = "Gator",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 9, 10, 11 },
+						rank = { 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["libertycap"] = {
+						CustomName = "Chevy Caprice",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 9, 10, 11 },
+						rank = { 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["liberty10charg"] = {
+						CustomName = "2010 Dodge Charger",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["libertyfpis"] = {
+						CustomName = "Ford Taurus Pi",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["liberty14charg"] = {
+						CustomName = "2014 Dodge Charger",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["liberty16impala"] = {
+						CustomName = "2016 Chevy Impala",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["liberty16fpiu"] = {
+						CustomName = "2016 Ford Explorer",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["liberty16fpiuk9"] = {
+						CustomName = "2016 Ford Explorer K9",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["code3fpis"] = {
+						CustomName = "Ford Taurus",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["libertyf150"] = {
+						CustomName = "Ford F-150",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 22, 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["liberty13tahoe"] = {
+						CustomName = "2013 Chevy Tahoe",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["liberty18charg"] = {
+						CustomName = "2018 Dodge Charger",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["liberty18chargk9"] = {
+						CustomName = "2018 Dodge Charger K9",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 23, 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["libertydurango"] = {
+						CustomName = "2018 Dodge Durango",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["liberty20exp"] = {
+						CustomName = "2020 Ford Explorer",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 24, 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["libertysilverado"] = {
+						CustomName = "Chevy Silverado",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["libertyf250"] = {
+						CustomName = "Ford F-250",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 25, 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["liberty18tahoe"] = {
+						CustomName = "2018 Chevy Tahoe",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["liberty18tahoek9"] = {
+						CustomName = "2018 Chevy Tahoe K9",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 26, 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["libertyram"] = {
+						CustomName = "Dodge Ram 2500",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 27, 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["liberty19silv"] = {
+						CustomName = "2019 Chevy Silverado",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						rank = { 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["mach1rb"] = {
+						CustomName = "2021 Ford Mustang PI",
+						livery = 2,
+						extras = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 },
+						rank = { 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["poldemonrb"] = {
+						CustomName = "2018 Dodge Demon PI",
+						livery = 2,
+						extras = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 },
+						rank = { 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["zr1rb"] = {
+						CustomName = "2019 Chevy ZR1 Corvette PI",
+						livery = 2,
+						extras = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 },
+						rank = { 28, 29 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+				},
+			},
+		},
+
+		---BOTTOM----------------------------------------------------------------------------------------------
+
 		{ 	zoneEnable = true, --LSPD 3
 			job = "police",
 			garage = {
@@ -560,6 +942,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code310charg"] = {
@@ -572,6 +955,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code314charg"] = {
@@ -584,6 +968,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code316fpiu"] = {
@@ -596,6 +981,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3fpis"] = {
@@ -608,6 +994,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3f150"] = {
@@ -620,6 +1007,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code314tahoe"] = {
@@ -632,6 +1020,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code318charg"] = {
@@ -644,6 +1033,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3durango"] = {
@@ -656,6 +1046,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code320exp"] = {
@@ -668,6 +1059,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3silverado"] = {
@@ -680,6 +1072,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3f250"] = {
@@ -692,6 +1085,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code318tahoe"] = {
@@ -704,6 +1098,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code3ram"] = {
@@ -716,6 +1111,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["code319silv"] = {
@@ -728,6 +1124,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["umdemon"] = {
@@ -740,6 +1137,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["umc8"] = {
@@ -752,6 +1150,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["um2020camaro"] = {
@@ -764,6 +1163,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["mach1rb"] = {
@@ -776,6 +1176,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["poldemonrb"] = {
@@ -788,6 +1189,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["zr1rb"] = {
@@ -800,6 +1202,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 				},
@@ -821,6 +1224,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valor14charg"] = {
@@ -833,6 +1237,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valor16fpiu"] = {
@@ -845,6 +1250,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valorfpis"] = {
@@ -857,6 +1263,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valor15f150"] = {
@@ -869,6 +1276,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valor13tahoe"] = {
@@ -881,6 +1289,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valor18charg"] = {
@@ -893,6 +1302,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valor20fpiu"] = {
@@ -905,6 +1315,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valorgmc"] = {
@@ -917,6 +1328,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valorf250"] = {
@@ -929,6 +1341,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valor18tahoe"] = {
@@ -941,6 +1354,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valor20ram"] = {
@@ -953,6 +1367,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valorram"] = {
@@ -965,6 +1380,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["valor19silv"] = {
@@ -977,6 +1393,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["umdemon"] = {
@@ -989,6 +1406,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["umc8"] = {
@@ -1001,6 +1419,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["um2020camaro"] = {
@@ -1013,6 +1432,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["mach1rb"] = {
@@ -1025,6 +1445,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["poldemonrb"] = {
@@ -1037,6 +1458,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 					["zr1rb"] = {
@@ -1049,6 +1471,7 @@ Config = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
 				},
@@ -1072,6 +1495,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fordambo"] = {
@@ -1086,6 +1510,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arroweng"] = {
@@ -1100,6 +1525,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd1"] = {
@@ -1114,6 +1540,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowladder"] = {
@@ -1128,6 +1555,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdatv"] = {
@@ -1142,6 +1570,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["FD8"] = {
@@ -1156,6 +1585,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd6"] = {
@@ -1170,6 +1600,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd13"] = {
@@ -1184,6 +1615,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["21firedurango"] = {
@@ -1198,6 +1630,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdfmo1"] = {
@@ -1212,6 +1645,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowrescue"] = {
@@ -1226,6 +1660,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["20ramambo"] = {
@@ -1240,6 +1675,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 				},
@@ -1263,6 +1699,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fordambo"] = {
@@ -1277,6 +1714,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arroweng"] = {
@@ -1291,6 +1729,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd1"] = {
@@ -1305,6 +1744,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowladder"] = {
@@ -1319,6 +1759,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdatv"] = {
@@ -1333,6 +1774,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["FD8"] = {
@@ -1347,6 +1789,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd6"] = {
@@ -1361,6 +1804,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd13"] = {
@@ -1375,6 +1819,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["21firedurango"] = {
@@ -1389,6 +1834,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdfmo1"] = {
@@ -1403,6 +1849,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowrescue"] = {
@@ -1417,6 +1864,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["20ramambo"] = {
@@ -1431,6 +1879,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 				},
@@ -1454,6 +1903,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fordambo"] = {
@@ -1468,6 +1918,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arroweng"] = {
@@ -1482,6 +1933,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd1"] = {
@@ -1496,6 +1948,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowladder"] = {
@@ -1510,6 +1963,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdatv"] = {
@@ -1524,6 +1978,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["FD8"] = {
@@ -1538,6 +1993,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd6"] = {
@@ -1552,6 +2008,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd13"] = {
@@ -1566,6 +2023,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["21firedurango"] = {
@@ -1580,6 +2038,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdfmo1"] = {
@@ -1594,6 +2053,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowrescue"] = {
@@ -1608,6 +2068,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["20ramambo"] = {
@@ -1622,6 +2083,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 				},
@@ -1645,6 +2107,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fordambo"] = {
@@ -1659,6 +2122,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arroweng"] = {
@@ -1673,6 +2137,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd1"] = {
@@ -1687,6 +2152,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowladder"] = {
@@ -1701,6 +2167,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdatv"] = {
@@ -1715,6 +2182,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["FD8"] = {
@@ -1729,6 +2197,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd6"] = {
@@ -1743,6 +2212,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd13"] = {
@@ -1757,6 +2227,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["21firedurango"] = {
@@ -1771,6 +2242,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdfmo1"] = {
@@ -1785,6 +2257,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowrescue"] = {
@@ -1799,6 +2272,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["20ramambo"] = {
@@ -1813,6 +2287,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 				},
@@ -1836,6 +2311,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fordambo"] = {
@@ -1850,6 +2326,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arroweng"] = {
@@ -1864,6 +2341,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd1"] = {
@@ -1878,6 +2356,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowladder"] = {
@@ -1892,6 +2371,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdatv"] = {
@@ -1906,6 +2386,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["FD8"] = {
@@ -1920,6 +2401,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd6"] = {
@@ -1934,6 +2416,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd13"] = {
@@ -1948,6 +2431,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["21firedurango"] = {
@@ -1962,6 +2446,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdfmo1"] = {
@@ -1976,6 +2461,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowrescue"] = {
@@ -1990,6 +2476,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["20ramambo"] = {
@@ -2004,12 +2491,12 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 				},
 			},
 		},
-
 		{ 	zoneEnable = true, -- Medical 5
 			job = "ambulance",
 			garage = {
@@ -2028,6 +2515,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fordambo"] = {
@@ -2042,6 +2530,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arroweng"] = {
@@ -2056,6 +2545,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd1"] = {
@@ -2070,6 +2560,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowladder"] = {
@@ -2084,6 +2575,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdatv"] = {
@@ -2098,6 +2590,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["FD8"] = {
@@ -2112,6 +2605,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd6"] = {
@@ -2126,6 +2620,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd13"] = {
@@ -2140,6 +2635,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["21firedurango"] = {
@@ -2154,6 +2650,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdfmo1"] = {
@@ -2168,6 +2665,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowrescue"] = {
@@ -2182,6 +2680,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["20ramambo"] = {
@@ -2196,6 +2695,211 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+				},
+			},
+		},
+		{ 	zoneEnable = true, -- Medical 7 (Paleto FD)
+			job = "ambulance",
+			garage = {
+				spawn = vector4(-365.85, 6119.34, 31.38, 50.01),
+				out = vector4(-375.38, 6107.02, 31.38, 324.85),
+				list = {
+					["fd2"] = {
+						CustomName = "Ambulance",
+						livery = 0,
+						extras = { 1, 2, 5, 6, 7, 8, 9, 12 },
+						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+					["fordambo"] = {
+						CustomName = "Ford Ambulance",
+						livery = 0,
+						extras = { 1, 2, 3, 5, 6, 7, 8, 9 },
+						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+					["arroweng"] = {
+						CustomName = "Ford Engine (R&B)",
+						livery = 0,
+						extras = { 11, 12 },
+						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+					["fd1"] = {
+						CustomName = "Fire Engine",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 6, 7, 10, 11 },
+						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+					["arrowladder"] = {
+						CustomName = "Ladder Truck (R&B)",
+						livery = 0,
+						extras = { 1, 4, 5 },
+						rank = { 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+					["fdatv"] = {
+						CustomName = "ATV",
+						livery = 0,
+						extras = { 1, 2 },
+						rank = { 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+					["FD8"] = {
+						CustomName = "Ford Explorer",
+						livery = 0,
+						extras = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
+						rank = { 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+					["fd6"] = {
+						CustomName = "Ford F150",
+						livery = 0,
+						extras = { 1, 3, 9, 11 },
+						rank = { 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+					["fd13"] = {
+						CustomName = "Chevy Tahoe",
+						livery = 0,
+						extras = { 2, 7 },
+						rank = { 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+					["21firedurango"] = {
+						CustomName = "Dudge Durango",
+						livery = 0,
+						extras = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
+						rank = { 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+					["fdfmo1"] = {
+						CustomName = "Investigator Unit",
+						livery = 0,
+						extras = { },
+						rank = { 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+					["arrowrescue"] = {
+						CustomName = "Tactical Rescue (R&B)",
+						livery = 0,
+						extras = { 11, 12 },
+						rank = { 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
+						},
+					},
+					["20ramambo"] = {
+						CustomName = "2020 Ford Ambulance",
+						livery = 0,
+						extras = { 1, 2, 4, 5, 6, 8, 10 },
+						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						performance = "max",
+						trunkItems = {
+							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
+							{ name = "bandage", amount = 10, info = {}, type = "item", slot = 2, },
+							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
+							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
+							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 				},
@@ -2219,6 +2923,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["aw139"] = {
@@ -2233,6 +2938,7 @@ Config = {
 							{ name = "ifaks", amount = 5, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["polmav"] = {
@@ -2247,6 +2953,7 @@ Config = {
 							{ name = "ifaks", amount = 6, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 
@@ -2271,6 +2978,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["polmav"] = {
@@ -2285,8 +2993,7 @@ Config = {
 							{ name = "ifaks", amount = 5, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
-					
-				
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 
@@ -2311,16 +3018,17 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 				},
 			},
 		},
-		{ 	zoneEnable = true, -- Medical 6
+		{ 	zoneEnable = true, -- Medical 6 (La Mesa FD)
 			job = "ambulance",
 			garage = {
-				spawn = vector4(1200.76, -1469.01, 34.86, 359.0),
-				out = vector4(1208.19, -1475.13, 34.86, 89.03),
+				spawn = vector4(1201.26, -1476.07, 34.69, 356.14),
+				out = vector4(1196.14, -1482.65, 34.69, 0.07),
 				list = {
 					["fd2"] = {
 						CustomName = "Ambulance",
@@ -2334,6 +3042,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fordambo"] = {
@@ -2348,6 +3057,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arroweng"] = {
@@ -2362,6 +3072,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd1"] = {
@@ -2376,6 +3087,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowladder"] = {
@@ -2390,6 +3102,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdatv"] = {
@@ -2404,6 +3117,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["FD8"] = {
@@ -2418,6 +3132,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd6"] = {
@@ -2432,6 +3147,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fd13"] = {
@@ -2446,6 +3162,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["21firedurango"] = {
@@ -2460,6 +3177,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["fdfmo1"] = {
@@ -2474,6 +3192,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["arrowrescue"] = {
@@ -2488,6 +3207,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 					["20ramambo"] = {
@@ -2502,6 +3222,7 @@ Config = {
 							{ name = "ifaks", amount = 2, info = {}, type = "item", slot = 3, },
 							{ name = "painkillers", amount = 10, info = {}, type = "item", slot = 4, },
 							{ name = "weapon_fireextinguisher", amount = 3, info = {}, type = "item", slot = 5, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 6, },
 						},
 					},
 				},
