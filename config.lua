@@ -54,6 +54,32 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
+					["code318chargk9"] = {
+						CustomName = "2018 Dodge Charger k9",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 6, 9, 10, 11, 12 },
+						rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["code318tahoek9"] = {
+						CustomName = "2018 Chevy Tahoe k9",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 6, 9, 10, 11, 12 },
+						rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
 					["code314charg"] = {
 						CustomName = "2014 Dodge Charger",
 						livery = 0,
@@ -336,6 +362,32 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
+					["code318chargk9"] = {
+						CustomName = "2018 Dodge Charger k9",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 6, 9, 10, 11, 12 },
+						rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["code318tahoek9"] = {
+						CustomName = "2018 Chevy Tahoe k9",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 6, 9, 10, 11, 12 },
+						rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
 					["code314charg"] = {
 						CustomName = "2014 Dodge Charger",
 						livery = 0,
@@ -595,10 +647,10 @@ Config = {
 				spawn = vector4(1535.99, 797.73, 77.11, 61.42),
 				out = vector4(1541.74, 804.4, 77.01, 160.43),
 				list = {
-					["libertycvpi"] = {
+					["valor5bb"] = {
 						CustomName = "CPVI",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 9, 10, 11 },
+						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 },
 						performance = "max",
 						trunkItems = {
@@ -621,10 +673,10 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
-					["libertycap"] = {
+					["valor4bb"] = {
 						CustomName = "Chevy Caprice",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 9, 10, 11 },
+						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 },
 						performance = "max",
 						trunkItems = {
@@ -634,23 +686,10 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
-					["liberty10charg"] = {
-						CustomName = "2010 Dodge Charger",
-						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
-						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
-						performance = "max",
-						trunkItems = {
-							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
-							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
-							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
-							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
-						},
-					},
-					["libertyfpis"] = {
+					["valor6bb"] = {
 						CustomName = "Ford Taurus Pi",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
 						performance = "max",
 						trunkItems = {
@@ -660,10 +699,10 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
-					["liberty14charg"] = {
+					["valor2bb"] = {
 						CustomName = "2014 Dodge Charger",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
 						performance = "max",
 						trunkItems = {
@@ -673,23 +712,10 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
-					["liberty16impala"] = {
-						CustomName = "2016 Chevy Impala",
-						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
-						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
-						performance = "max",
-						trunkItems = {
-							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
-							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
-							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
-							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
-						},
-					},
-					["liberty16fpiu"] = {
+					["valor12bb"] = {
 						CustomName = "2016 Ford Explorer",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
 						performance = "max",
 						trunkItems = {
@@ -699,36 +725,10 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
-					["liberty16fpiuk9"] = {
-						CustomName = "2016 Ford Explorer K9",
-						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
-						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
-						performance = "max",
-						trunkItems = {
-							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
-							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
-							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
-							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
-						},
-					},
-					["code3fpis"] = {
-						CustomName = "Ford Taurus",
-						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
-						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
-						performance = "max",
-						trunkItems = {
-							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
-							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
-							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
-							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
-						},
-					},
-					["libertyf150"] = {
+					["valor14bb"] = {
 						CustomName = "Ford F-150",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 22, 23, 24, 25, 26, 27, 28, 29 },
 						performance = "max",
 						trunkItems = {
@@ -738,23 +738,10 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
-					["liberty13tahoe"] = {
-						CustomName = "2013 Chevy Tahoe",
-						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
-						rank = { 23, 24, 25, 26, 27, 28, 29 },
-						performance = "max",
-						trunkItems = {
-							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
-							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
-							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
-							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
-						},
-					},
-					["liberty18charg"] = {
+					["valor3bb"] = {
 						CustomName = "2018 Dodge Charger",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 23, 24, 25, 26, 27, 28, 29 },
 						performance = "max",
 						trunkItems = {
@@ -764,23 +751,10 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
-					["liberty18chargk9"] = {
-						CustomName = "2018 Dodge Charger K9",
+					["valor8bb"] = {
+						CustomName = "2020 Chevy Tahoe",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
-						rank = { 23, 24, 25, 26, 27, 28, 29 },
-						performance = "max",
-						trunkItems = {
-							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
-							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
-							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
-							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
-						},
-					},
-					["libertydurango"] = {
-						CustomName = "2018 Dodge Durango",
-						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 24, 25, 26, 27, 28, 29 },
 						performance = "max",
 						trunkItems = {
@@ -790,10 +764,9 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
-					["liberty20exp"] = {
+					["valor13bb"] = {
 						CustomName = "2020 Ford Explorer",
-						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 24, 25, 26, 27, 28, 29 },
 						performance = "max",
 						trunkItems = {
@@ -803,36 +776,10 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
-					["libertysilverado"] = {
-						CustomName = "Chevy Silverado",
+					["valor10bb"] = {
+						CustomName = "2020 Dodge Durango",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
-						rank = { 25, 26, 27, 28, 29 },
-						performance = "max",
-						trunkItems = {
-							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
-							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
-							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
-							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
-						},
-					},
-					["libertyf250"] = {
-						CustomName = "Ford F-250",
-						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
-						rank = { 25, 26, 27, 28, 29 },
-						performance = "max",
-						trunkItems = {
-							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
-							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
-							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
-							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
-						},
-					},
-					["liberty18tahoe"] = {
-						CustomName = "2018 Chevy Tahoe",
-						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 26, 27, 28, 29 },
 						performance = "max",
 						trunkItems = {
@@ -842,23 +789,10 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
-					["liberty18tahoek9"] = {
-						CustomName = "2018 Chevy Tahoe K9",
+					["valor9bb"] = {
+						CustomName = "2021 Chevy Tahoe",
 						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
-						rank = { 26, 27, 28, 29 },
-						performance = "max",
-						trunkItems = {
-							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
-							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
-							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
-							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
-						},
-					},
-					["libertyram"] = {
-						CustomName = "Dodge Ram 2500",
-						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 27, 28, 29 },
 						performance = "max",
 						trunkItems = {
@@ -870,8 +804,8 @@ Config = {
 					},
 					["liberty19silv"] = {
 						CustomName = "2019 Chevy Silverado",
-						livery = 0,
-						extras = { 1, 2, 3, 4, 5, 7, 9, 10, 11, 12 },
+						livery = 1,
+						extras = { 2, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 28, 29 },
 						performance = "max",
 						trunkItems = {
@@ -949,6 +883,32 @@ Config = {
 						CustomName = "2010 Dodge Charger",
 						livery = 0,
 						extras = { 1, 2, 3, 4, 5, 9, 10, 11 },
+						rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["code318chargk9"] = {
+						CustomName = "2018 Dodge Charger k9",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 6, 9, 10, 11, 12 },
+						rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["code318tahoek9"] = {
+						CustomName = "2018 Chevy Tahoe k9",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 6, 9, 10, 11, 12 },
 						rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
@@ -1453,6 +1413,58 @@ Config = {
 						livery = 4,
 						extras = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 },
 						rank = { 17, 18, 19 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["valor16fpiuk9"] = {
+						CustomName = "2016 Ford Explorer K9",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 7, 9, 11, 12 },
+						rank = { 11, 12, 13, 14, 15, 16, 17, 18, 19 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["valor18tahoek9"] = {
+						CustomName = "2018 Chevy Tahoe K9",
+						livery = 0,
+						extras = { 1,2, 3, 4, 5, 7, 9, 11, 12 },
+						rank = { 11, 12, 13, 14, 15, 16, 17, 18, 19 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["valorcvpik9"] = {
+						CustomName = "Ford Crown Vic K9",
+						livery = 0,
+						extras = { 1,2, 3, 4, 5, 7, 9, 11, 12 },
+						rank = { 11, 12, 13, 14, 15, 16, 17, 18, 19 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+					["valor18chargk9"] = {
+						CustomName = "2018 Dodge Charger K9",
+						livery = 0,
+						extras = { 1,2, 3, 4, 5, 7, 9, 11, 12 },
+						rank = { 11, 12, 13, 14, 15, 16, 17, 18, 19 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -2969,7 +2981,7 @@ Config = {
 					["as350"] = {
 						CustomName = "as350",
 						livery = 0,
-						extras = { 1, 2, 5, 6, 7, 8, 9, 11, 12},
+						extras = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 },
 						rank = { 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
@@ -2984,7 +2996,7 @@ Config = {
 					["polmav"] = {
 						CustomName = "polmav",
 						livery = 0,
-						extras = { 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12 },
+						extras = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 },
 						rank = { 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
@@ -3010,7 +3022,7 @@ Config = {
 						CustomName = "as332",
 						livery = 0,
 						extras = { 1, 2, 5, 6, 7, 8, 9, 11, 12},
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -3033,7 +3045,7 @@ Config = {
 					["fd2"] = {
 						CustomName = "Ambulance",
 						livery = 0,
-						extras = { 1, 2, 5, 6, 7, 8, 9, 12 },
+						extras = { 1, 2, 5, 6, 7, 8, 9, 10, 11, 12 },
 						rank = { 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
