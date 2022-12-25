@@ -39,6 +39,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code310charg"] = {
@@ -52,6 +53,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code318chargk9"] = {
@@ -65,6 +67,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code318tahoek9"] = {
@@ -78,6 +81,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code314charg"] = {
@@ -91,6 +95,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code316fpiu"] = {
@@ -104,6 +109,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3fpis"] = {
@@ -117,6 +123,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3f150"] = {
@@ -130,6 +137,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code314tahoe"] = {
@@ -143,6 +151,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code318charg"] = {
@@ -156,6 +165,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3durango"] = {
@@ -169,6 +179,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code320exp"] = {
@@ -182,6 +193,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3silverado"] = {
@@ -195,6 +207,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3f250"] = {
@@ -208,6 +221,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code318tahoe"] = {
@@ -221,6 +235,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3ram"] = {
@@ -234,6 +249,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code319silv"] = {
@@ -247,6 +263,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["umdemon"] = {
@@ -260,6 +277,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["umc8"] = {
@@ -273,6 +291,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["um2020camaro"] = {
@@ -286,6 +305,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["mach1rb"] = {
@@ -299,6 +319,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["poldemonrb"] = {
@@ -312,6 +333,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["zr1rb"] = {
@@ -325,6 +347,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 				},
@@ -347,6 +370,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code310charg"] = {
@@ -360,6 +384,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code318chargk9"] = {
@@ -373,6 +398,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code318tahoek9"] = {
@@ -386,6 +412,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code314charg"] = {
@@ -399,6 +426,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code316fpiu"] = {
@@ -412,6 +440,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3fpis"] = {
@@ -425,6 +454,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3f150"] = {
@@ -438,6 +468,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code314tahoe"] = {
@@ -451,6 +482,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code318charg"] = {
@@ -464,6 +496,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3durango"] = {
@@ -477,6 +510,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code320exp"] = {
@@ -490,6 +524,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3silverado"] = {
@@ -503,6 +538,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3f250"] = {
@@ -516,6 +552,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code318tahoe"] = {
@@ -529,6 +566,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3ram"] = {
@@ -542,6 +580,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code319silv"] = {
@@ -555,6 +594,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["umdemon"] = {
@@ -568,6 +608,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["umc8"] = {
@@ -581,6 +622,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["um2020camaro"] = {
@@ -594,6 +636,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["mach1rb"] = {
@@ -607,6 +650,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["poldemonrb"] = {
@@ -620,6 +664,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["zr1rb"] = {
@@ -633,6 +678,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 				},
@@ -658,6 +704,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["libertygator"] = {
@@ -671,6 +718,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor4bb"] = {
@@ -684,6 +732,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor6bb"] = {
@@ -697,6 +746,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor2bb"] = {
@@ -710,6 +760,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor12bb"] = {
@@ -723,6 +774,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor14bb"] = {
@@ -736,6 +788,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor3bb"] = {
@@ -749,6 +802,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor8bb"] = {
@@ -762,6 +816,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor13bb"] = {
@@ -774,6 +829,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor10bb"] = {
@@ -787,6 +843,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor9bb"] = {
@@ -800,6 +857,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["liberty19silv"] = {
@@ -813,6 +871,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["mach1rb"] = {
@@ -826,6 +885,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["poldemonrb"] = {
@@ -839,6 +899,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["zr1rb"] = {
@@ -852,6 +913,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 				},
@@ -877,6 +939,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code310charg"] = {
@@ -890,6 +953,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code318chargk9"] = {
@@ -903,6 +967,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code318tahoek9"] = {
@@ -916,6 +981,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code314charg"] = {
@@ -929,6 +995,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code316fpiu"] = {
@@ -942,6 +1009,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3fpis"] = {
@@ -955,6 +1023,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3f150"] = {
@@ -968,6 +1037,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code314tahoe"] = {
@@ -981,6 +1051,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code318charg"] = {
@@ -994,6 +1065,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3durango"] = {
@@ -1007,6 +1079,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code320exp"] = {
@@ -1020,6 +1093,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3silverado"] = {
@@ -1033,6 +1107,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3f250"] = {
@@ -1046,6 +1121,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code318tahoe"] = {
@@ -1059,6 +1135,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code3ram"] = {
@@ -1072,6 +1149,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["code319silv"] = {
@@ -1085,6 +1163,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["umdemon"] = {
@@ -1098,6 +1177,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["umc8"] = {
@@ -1111,6 +1191,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["um2020camaro"] = {
@@ -1124,6 +1205,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["mach1rb"] = {
@@ -1137,6 +1219,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["poldemonrb"] = {
@@ -1150,6 +1233,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["zr1rb"] = {
@@ -1163,6 +1247,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 				},
@@ -1185,6 +1270,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor14charg"] = {
@@ -1198,6 +1284,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor16fpiu"] = {
@@ -1211,6 +1298,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valorfpis"] = {
@@ -1224,6 +1312,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor15f150"] = {
@@ -1237,6 +1326,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor13tahoe"] = {
@@ -1250,6 +1340,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor18charg"] = {
@@ -1263,6 +1354,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor20fpiu"] = {
@@ -1276,6 +1368,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valorgmc"] = {
@@ -1289,6 +1382,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valorf250"] = {
@@ -1302,6 +1396,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor18tahoe"] = {
@@ -1315,6 +1410,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor20ram"] = {
@@ -1328,6 +1424,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valorram"] = {
@@ -1341,6 +1438,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor19silv"] = {
@@ -1354,6 +1452,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["umdemon"] = {
@@ -1367,6 +1466,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["umc8"] = {
@@ -1380,6 +1480,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["um2020camaro"] = {
@@ -1393,6 +1494,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["mach1rb"] = {
@@ -1406,6 +1508,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["poldemonrb"] = {
@@ -1419,6 +1522,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor16fpiuk9"] = {
@@ -1432,6 +1536,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor18tahoek9"] = {
@@ -1445,6 +1550,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valorcvpik9"] = {
@@ -1458,6 +1564,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["valor18chargk9"] = {
@@ -1471,6 +1578,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 					["zr1rb"] = {
@@ -1484,6 +1592,7 @@ Config = {
 							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
 							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
 				},
