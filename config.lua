@@ -684,9 +684,6 @@ Config = {
 				},
 			},
 		},
-
-		---TOP---------------------------------------------------------------------------------------------------------
-
 		{ 	zoneEnable = true, --STATE POLICE
 			job = "police",
 			garage = {
@@ -919,9 +916,6 @@ Config = {
 				},
 			},
 		},
-
-		---BOTTOM----------------------------------------------------------------------------------------------
-
 		{ 	zoneEnable = true, --LSPD 3
 			job = "police",
 			garage = {
@@ -1329,6 +1323,20 @@ Config = {
 							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
 						},
 					},
+					["valor15bb"] = {
+						CustomName = "Dodge Ram",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 9, 10, 11 },
+						rank = { 12, 13, 14, 15, 16, 17, 18, 19 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
+						},
+					},
 					["valor13tahoe"] = {
 						CustomName = "2013 Chevy Tahoe",
 						livery = 0,
@@ -1586,6 +1594,43 @@ Config = {
 						livery = 4,
 						extras = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 },
 						rank = { 17, 18, 19 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
+						},
+					},
+				},
+			},
+		},
+		{ 	zoneEnable = true, -- Park Ranger
+			job = "police",
+			garage = {
+				spawn = vector4(373.28, 787.33, 186.81, 168.6),
+				out = vector4(377.12, 792.08, 187.65, 93.96),
+				list = {
+					["saspf150"] = {
+						CustomName = "Ford F150",
+						livery = 2,
+						extras = { 1, 2, 3, 4, 5, 9, 10, 11 },
+						rank = { 30, 31, 32, 33 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+							{ name = "spikestrip", amount = 20, info = {}, type = "item", slot = 5, },
+						},
+					},
+					["valor9bb"] = {
+						CustomName = "2021 Chevy Tahoe",
+						livery = 2,
+						extras = { 1, 2, 3, 4, 5, 9, 10, 11 },
+						rank = { 30, 31, 32, 33 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
