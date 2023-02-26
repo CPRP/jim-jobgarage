@@ -41,7 +41,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code310charg"] = {
@@ -57,7 +56,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318chargk9"] = {
@@ -73,7 +71,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318tahoek9"] = {
@@ -89,7 +86,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code314charg"] = {
@@ -105,7 +101,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code316fpiu"] = {
@@ -121,7 +116,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3fpis"] = {
@@ -137,7 +131,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3f150"] = {
@@ -153,7 +146,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code314tahoe"] = {
@@ -169,7 +161,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318charg"] = {
@@ -185,7 +176,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3durango"] = {
@@ -201,7 +191,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code320exp"] = {
@@ -217,7 +206,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3silverado"] = {
@@ -233,7 +221,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3f250"] = {
@@ -249,7 +236,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318tahoe"] = {
@@ -265,7 +251,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3ram"] = {
@@ -281,7 +266,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code319silv"] = {
@@ -297,7 +281,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 				},
@@ -322,7 +305,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code310charg"] = {
@@ -338,7 +320,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318chargk9"] = {
@@ -354,7 +335,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318tahoek9"] = {
@@ -370,7 +350,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code314charg"] = {
@@ -386,7 +365,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code316fpiu"] = {
@@ -402,7 +380,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3fpis"] = {
@@ -418,7 +395,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3f150"] = {
@@ -434,7 +410,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code314tahoe"] = {
@@ -450,7 +425,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318charg"] = {
@@ -466,7 +440,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3durango"] = {
@@ -482,7 +455,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code320exp"] = {
@@ -498,7 +470,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3silverado"] = {
@@ -514,7 +485,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3f250"] = {
@@ -530,7 +500,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318tahoe"] = {
@@ -546,7 +515,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3ram"] = {
@@ -562,7 +530,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code319silv"] = {
@@ -578,7 +545,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 				},
@@ -603,7 +569,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code310charg"] = {
@@ -619,7 +584,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318chargk9"] = {
@@ -635,7 +599,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318tahoek9"] = {
@@ -651,7 +614,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code314charg"] = {
@@ -667,7 +629,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code316fpiu"] = {
@@ -683,7 +644,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3fpis"] = {
@@ -699,7 +659,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3f150"] = {
@@ -715,7 +674,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code314tahoe"] = {
@@ -731,7 +689,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318charg"] = {
@@ -747,7 +704,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3durango"] = {
@@ -763,7 +719,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code320exp"] = {
@@ -779,7 +734,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3silverado"] = {
@@ -795,7 +749,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3f250"] = {
@@ -811,7 +764,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318tahoe"] = {
@@ -827,7 +779,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3ram"] = {
@@ -843,7 +794,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code319silv"] = {
@@ -859,7 +809,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["umdemon"] = {
@@ -875,7 +824,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["umc8"] = {
@@ -891,7 +839,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["um2020camaro"] = {
@@ -907,7 +854,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["mach1rb"] = {
@@ -923,7 +869,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["poldemonrb"] = {
@@ -939,7 +884,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["zr1rb"] = {
@@ -955,7 +899,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 				},
@@ -980,7 +923,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor2rb"] = {
@@ -996,7 +938,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor3rb"] = {
@@ -1012,7 +953,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor6rb"] = {
@@ -1028,7 +968,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor15rb"] = {
@@ -1044,7 +983,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor14rb"] = {
@@ -1060,7 +998,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor12rb"] = {
@@ -1076,7 +1013,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor9rb"] = {
@@ -1092,7 +1028,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor8rb"] = {
@@ -1108,7 +1043,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor13rb"] = {
@@ -1124,7 +1058,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor10rb"] = {
@@ -1140,7 +1073,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["chartrxleo"] = {
@@ -1156,7 +1088,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 				},
@@ -1181,7 +1112,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code310charg"] = {
@@ -1197,7 +1127,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318chargk9"] = {
@@ -1213,7 +1142,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318tahoek9"] = {
@@ -1229,7 +1157,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code314charg"] = {
@@ -1245,7 +1172,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code316fpiu"] = {
@@ -1261,7 +1187,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3fpis"] = {
@@ -1277,7 +1202,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3f150"] = {
@@ -1293,7 +1217,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code314tahoe"] = {
@@ -1309,7 +1232,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318charg"] = {
@@ -1325,7 +1247,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3durango"] = {
@@ -1341,7 +1262,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code320exp"] = {
@@ -1357,7 +1277,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3silverado"] = {
@@ -1373,7 +1292,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3f250"] = {
@@ -1389,7 +1307,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code318tahoe"] = {
@@ -1405,7 +1322,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code3ram"] = {
@@ -1421,7 +1337,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["code319silv"] = {
@@ -1437,7 +1352,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["umdemon"] = {
@@ -1453,7 +1367,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["umc8"] = {
@@ -1469,7 +1382,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["um2020camaro"] = {
@@ -1485,7 +1397,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["mach1rb"] = {
@@ -1501,7 +1412,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["poldemonrb"] = {
@@ -1517,7 +1427,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["zr1rb"] = {
@@ -1533,7 +1442,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 				},
@@ -1558,7 +1466,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor2rb"] = {
@@ -1574,7 +1481,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor3rb"] = {
@@ -1590,7 +1496,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor6rb"] = {
@@ -1606,7 +1511,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor15rb"] = {
@@ -1622,7 +1526,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor14rb"] = {
@@ -1638,7 +1541,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor12rb"] = {
@@ -1654,7 +1556,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor9rb"] = {
@@ -1670,7 +1571,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor8rb"] = {
@@ -1686,7 +1586,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor13rb"] = {
@@ -1702,7 +1601,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor10rb"] = {
@@ -1718,7 +1616,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					-- ["mach1rb"] = {
@@ -1779,7 +1676,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["08magnum"] = {
@@ -1795,7 +1691,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 				},
@@ -1820,7 +1715,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor2rb"] = {
@@ -1836,7 +1730,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor3rb"] = {
@@ -1852,7 +1745,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor6rb"] = {
@@ -1868,7 +1760,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor15rb"] = {
@@ -1884,7 +1775,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor14rb"] = {
@@ -1900,7 +1790,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor12rb"] = {
@@ -1916,7 +1805,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor9rb"] = {
@@ -1932,7 +1820,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor8rb"] = {
@@ -1948,7 +1835,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor13rb"] = {
@@ -1964,7 +1850,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor10rb"] = {
@@ -1980,7 +1865,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["chartrxleo"] = {
@@ -1996,7 +1880,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 				},
@@ -2021,7 +1904,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 					["valor9rb"] = {
@@ -2037,7 +1919,6 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 							{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-							{ name = "megaphone", amount = 1, info = {}, type = "item", slot = 7, },
 						},
 					},
 				},
@@ -2154,7 +2035,7 @@ Config = {
 						CustomName = "Ambulance",
 						livery = 0,
 						extras = { 1, 2, 5, 6, 7, 8, 9, 12 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2169,7 +2050,7 @@ Config = {
 						CustomName = "Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 3, 5, 6, 7, 8, 9 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2334,7 +2215,7 @@ Config = {
 						CustomName = "2020 Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 4, 5, 6, 8, 10 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2358,7 +2239,7 @@ Config = {
 						CustomName = "Ambulance",
 						livery = 0,
 						extras = { 1, 2, 5, 6, 7, 8, 9, 12 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2373,7 +2254,7 @@ Config = {
 						CustomName = "Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 3, 5, 6, 7, 8, 9 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2538,7 +2419,7 @@ Config = {
 						CustomName = "2020 Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 4, 5, 6, 8, 10 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2562,7 +2443,7 @@ Config = {
 						CustomName = "Ambulance",
 						livery = 0,
 						extras = { 1, 2, 5, 6, 7, 8, 9, 12 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2577,7 +2458,7 @@ Config = {
 						CustomName = "Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 3, 5, 6, 7, 8, 9 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2742,7 +2623,7 @@ Config = {
 						CustomName = "2020 Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 4, 5, 6, 8, 10 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2766,7 +2647,7 @@ Config = {
 						CustomName = "Ambulance",
 						livery = 0,
 						extras = { 1, 2, 5, 6, 7, 8, 9, 12 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2781,7 +2662,7 @@ Config = {
 						CustomName = "Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 3, 5, 6, 7, 8, 9 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2946,7 +2827,7 @@ Config = {
 						CustomName = "2020 Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 4, 5, 6, 8, 10 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2970,7 +2851,7 @@ Config = {
 						CustomName = "Ambulance",
 						livery = 0,
 						extras = { 1, 2, 5, 6, 7, 8, 9, 12 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -2985,7 +2866,7 @@ Config = {
 						CustomName = "Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 3, 5, 6, 7, 8, 9 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -3150,7 +3031,7 @@ Config = {
 						CustomName = "2020 Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 4, 5, 6, 8, 10 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -3174,7 +3055,7 @@ Config = {
 						CustomName = "Ambulance",
 						livery = 0,
 						extras = { 1, 2, 5, 6, 7, 8, 9, 12 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -3189,7 +3070,7 @@ Config = {
 						CustomName = "Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 3, 5, 6, 7, 8, 9 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -3354,7 +3235,7 @@ Config = {
 						CustomName = "2020 Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 4, 5, 6, 8, 10 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -3649,7 +3530,7 @@ Config = {
 						CustomName = "Ambulance",
 						livery = 0,
 						extras = { 1, 2, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -3664,7 +3545,7 @@ Config = {
 						CustomName = "Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 3, 5, 6, 7, 8, 9 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
@@ -3829,7 +3710,7 @@ Config = {
 						CustomName = "2020 Ford Ambulance",
 						livery = 0,
 						extras = { 1, 2, 4, 5, 6, 8, 10 },
-						rank = { 1, 2, 3, 4, 5, 6, 7 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
