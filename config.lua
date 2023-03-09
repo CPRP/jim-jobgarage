@@ -22,6 +22,27 @@ Config = {
 	Notify = "qb",
 	CarDespawn = true, -- Sends the vehicle to hell
 	Locations = {
+		{ 	zoneEnable = true, -- Luxury Motors
+			job = "cardealer",
+			garage = {
+				spawn = vector4(2657.6, 3480.22, 56.23, 336.56),
+				out = vector4(2661.35, 3477.65, 56.27, 74.02),
+				list = {
+					["caddy"] = {
+						CustomName = "Golf Caddy",
+						colors = { 89, 0 }, 
+						rank = { 0, 1, 2, 3, 4 },
+						performance = "max",
+					},
+					["gcart"] = {
+						CustomName = "Extended Caddy",
+						colors = { 89, 0 }, 
+						rank = { 0, 1, 2, 3, 4 },
+						performance = "max",
+					},
+				},
+			},
+		},
 		{ 	zoneEnable = true, --LSPD MISSION ROW
 			job = "police",
 			garage = {
