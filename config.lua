@@ -926,7 +926,7 @@ Config = {
 			},
 		},
 		{ 	zoneEnable = true, -- BCSO DAVIS STATION 
-			job = "police",
+			job = "bcso",
 			garage = {
 				spawn = vector4(378.86, -1627.91, 29.29, 323.05),
 				out = vector4(378.22, -1621.03, 29.29, 229.36),
@@ -935,7 +935,7 @@ Config = {
 						CustomName = "CPVI",
 						livery = 0,
 						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -950,7 +950,7 @@ Config = {
 						CustomName = "2014 Dodge Charger",
 						livery = 0,
 						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
-					 	rank = { 11, 12, 13, 14, 15, 16, 17, 18, 19 },
+					 	rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -965,7 +965,7 @@ Config = {
 						CustomName = "2018 Dodge Charger",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 12, 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -980,7 +980,7 @@ Config = {
 						CustomName = "2018 Ford Taurus",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 12, 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -995,7 +995,7 @@ Config = {
 						CustomName = "2016 Dodge Ram",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1010,7 +1010,7 @@ Config = {
 						CustomName = "2018 Ford F-150",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1025,7 +1025,7 @@ Config = {
 						CustomName = "2016 Ford Explorer",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1040,7 +1040,7 @@ Config = {
 						CustomName = "2021 Chevy Tahoe",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 14, 15, 16, 17, 18, 19 },
+						rank = { 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1055,7 +1055,7 @@ Config = {
 						CustomName = "2020 Chevy Tahoe",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 14, 15, 16, 17, 18, 19 },
+						rank = { 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1070,7 +1070,7 @@ Config = {
 						CustomName = "2020 Ford Explorer",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 15, 16, 17, 18, 19 },
+						rank = { 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1085,7 +1085,7 @@ Config = {
 						CustomName = "2021 Dodge Durango",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 15, 16, 17, 18, 19 },
+						rank = { 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1100,7 +1100,7 @@ Config = {
 						CustomName = "2021 Dodge TRX",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 18, 19 },
+						rank = { 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1469,7 +1469,7 @@ Config = {
 			},
 		},
 		{ 	zoneEnable = true, --STATE POLICE
-			job = "police",
+			job = "sasp",
 			garage = {
 				spawn = vector4(1535.99, 797.73, 77.11, 61.42),
 				out = vector4(1541.74, 804.4, 77.01, 160.43),
@@ -1478,7 +1478,7 @@ Config = {
 						CustomName = "CPVI",
 						livery = 0,
 						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1493,7 +1493,7 @@ Config = {
 						CustomName = "2014 Dodge Charger",
 						livery = 0,
 						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1508,7 +1508,7 @@ Config = {
 						CustomName = "2018 Dodge Charger",
 						livery = 1,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 22, 23, 24, 25, 26, 27, 28, 29 },
+						rank = { 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1523,7 +1523,7 @@ Config = {
 						CustomName = "2018 Ford Taurus",
 						livery = 1,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 22, 23, 24, 25, 26, 27, 28, 29 },
+						rank = { 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1538,7 +1538,7 @@ Config = {
 						CustomName = "2016 Dodge Ram",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 23, 24, 25, 26, 27, 28, 29 },
+						rank = { 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1553,7 +1553,7 @@ Config = {
 						CustomName = "2018 Ford F-150",
 						livery = 2,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 23, 24, 25, 26, 27, 28, 29 },
+						rank = { 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1568,7 +1568,7 @@ Config = {
 						CustomName = "2016 Ford Explorer",
 						livery = 1,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 23, 24, 25, 26, 27, 28, 29 },
+						rank = { 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1583,7 +1583,7 @@ Config = {
 						CustomName = "2021 Chevy Tahoe",
 						livery = 2,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 24, 25, 26, 27, 28, 29 },
+						rank = { 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1598,7 +1598,7 @@ Config = {
 						CustomName = "2020 Chevy Tahoe",
 						livery = 1,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 24, 25, 26, 27, 28, 29 },
+						rank = { 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1613,7 +1613,7 @@ Config = {
 						CustomName = "2020 Ford Explorer",
 						livery = 1,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 25, 26, 27, 28, 29 },
+						rank = { 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1628,7 +1628,7 @@ Config = {
 						CustomName = "2021 Dodge Durango",
 						livery = 1,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 25, 26, 27, 28, 29 },
+						rank = { 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1639,56 +1639,11 @@ Config = {
 							{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
 						},
 					},
-					-- ["mach1rb"] = {
-					-- 	CustomName = "2021 Ford Mustang PI",
-					-- 	livery = 2,
-					-- 	extras = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
-					-- 	rank = { 26, 27, 28, 29 },
-					-- 	performance = "max",
-					-- 	trunkItems = {
-					-- 		{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
-					-- 		{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
-					-- 		{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
-					-- 		{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
-					-- 		{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
-					-- 		{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-					-- 	},
-					-- },
-					-- ["poldemonrb"] = {
-					-- 	CustomName = "2018 Dodge Demon PI",
-					-- 	livery = 2,
-					-- 	extras = { 2, 4, 5, 6, 7, 8 },
-					-- 	rank = { 26, 27, 28, 29 },
-					-- 	performance = "max",
-					-- 	trunkItems = {
-					-- 		{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
-					-- 		{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
-					-- 		{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
-					-- 		{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
-					-- 		{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
-					-- 		{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-					-- 	},
-					-- },
-					-- ["zr1rb"] = {
-					-- 	CustomName = "2019 Chevy ZR1 Corvette PI",
-					-- 	livery = 2,
-					-- 	extras = { 1, 2, 3, 4, 5 },
-					-- 	rank = { 26, 27, 28, 29 },
-					-- 	performance = "max",
-					-- 	trunkItems = {
-					-- 		{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
-					-- 		{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
-					-- 		{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
-					-- 		{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
-					-- 		{ name = "spikestrip", amount = 5, info = {}, type = "item", slot = 5, },
-					-- 		{ name = "ducttape", amount = 5, info = {}, type = "item", slot = 6, },
-					-- 	},
-					-- },
 					["SILV"] = {
 						CustomName = "2019 Chevy Silverado",
 						livery = 0,
 						extras = { 1, 2, 4, 5 },
-						rank = { 27, 28, 29 },
+						rank = { 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1703,7 +1658,7 @@ Config = {
 						CustomName = "2008 Magnum",
 						livery = 0,
 						extras = { 1, 2, 4, 5 },
-						rank = { 27, 28, 29 },
+						rank = { 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1718,7 +1673,7 @@ Config = {
 			},
 		},
 		{ 	zoneEnable = true, -- BCSO SANDY SHORES
-			job = "police",
+			job = "bcso",
 			garage = {
 				spawn = vector4(1819.01, 3689.93, 33.97, 294.48),
 				out = vector4(1821.2, 3680.2, 33.97, 37.85),
@@ -1727,7 +1682,7 @@ Config = {
 						CustomName = "CPVI",
 						livery = 0,
 						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1742,7 +1697,7 @@ Config = {
 						CustomName = "2014 Dodge Charger",
 						livery = 0,
 						extras = { 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
-					 	rank = { 11, 12, 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1757,7 +1712,7 @@ Config = {
 						CustomName = "2018 Dodge Charger",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 12, 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1772,7 +1727,7 @@ Config = {
 						CustomName = "2018 Ford Taurus",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 12, 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1787,7 +1742,7 @@ Config = {
 						CustomName = "2016 Dodge Ram",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1802,7 +1757,7 @@ Config = {
 						CustomName = "2018 Ford F-150",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1817,7 +1772,7 @@ Config = {
 						CustomName = "2016 Ford Explorer",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 13, 14, 15, 16, 17, 18, 19 },
+						rank = { 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1832,7 +1787,7 @@ Config = {
 						CustomName = "2021 Chevy Tahoe",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 14, 15, 16, 17, 18, 19 },
+						rank = { 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1847,7 +1802,7 @@ Config = {
 						CustomName = "2020 Chevy Tahoe",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 14, 15, 16, 17, 18, 19 },
+						rank = { 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1862,7 +1817,7 @@ Config = {
 						CustomName = "2020 Ford Explorer",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 15, 16, 17, 18, 19 },
+						rank = { 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1877,7 +1832,7 @@ Config = {
 						CustomName = "2021 Dodge Durango",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 15, 16, 17, 18, 19 },
+						rank = { 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1892,7 +1847,7 @@ Config = {
 						CustomName = "2021 Dodge TRX",
 						livery = 0,
 						extras = { 1, 5, 6, 7, 8, 9, 10, 11, 12 },
-						rank = { 18, 19 },
+						rank = { 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1907,7 +1862,7 @@ Config = {
 			},
 		},
 		{ 	zoneEnable = true, -- PARK RANGER
-			job = "police",
+			job = "sapr",
 			garage = {
 				spawn = vector4(373.28, 787.33, 186.81, 168.6),
 				out = vector4(377.12, 792.08, 187.65, 93.96),
@@ -1916,7 +1871,7 @@ Config = {
 						CustomName = "Ford F150",
 						livery = 0,
 						extras = { 1, 2, 3, 4, 5, 9, 10 },
-						rank = { 30, 31, 32, 33 },
+						rank = { 0, 1, 2, 3 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1931,7 +1886,7 @@ Config = {
 						CustomName = "2021 Chevy Tahoe",
 						livery = 1,
 						extras = { 1, 2, 3, 4, 5, 9, 10 },
-						rank = { 30, 31, 32, 33 },
+						rank = { 0, 1, 2, 3 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1945,17 +1900,17 @@ Config = {
 				},
 			},
 		},
-		{ 	zoneEnable = true, -- Police Boats Sandy 1
-			job = "police",
+		{ 	zoneEnable = true, -- Police Boats BCSO 1
+			job = "bcso",
 			garage = {
 				spawn = vector4(1580.19, 3921.23, 29.93, 353.13),
 				out = vector4(1576.67, 3908.41, 31.63, 159.8),
 				list = {
 					["code3boat"] = {
-						CustomName = "LSPD Boat",
+						CustomName = "BCSO Boat",
 						livery = 0,
 						extras = { 1, 2, 3, 4, 5, 6, 7, 8 },
-						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1967,17 +1922,17 @@ Config = {
 				},
 			},
 		},
-		{ 	zoneEnable = true, -- Police Boats Sandy 2
-			job = "police",
+		{ 	zoneEnable = true, -- Police Boats BCSO 2
+			job = "bcso",
 			garage = {
 				spawn = vector4(1352.83, 4270.34, 29.86, 207.18),
 				out = vector4(1338.8, 4270.16, 31.5, 83.25),
 				list = {
 					["code3boat"] = {
-						CustomName = "LSPD Boat",
+						CustomName = "BCSO Boat",
 						livery = 0,
 						extras = { 1, 2, 3, 4, 5, 6, 7, 8 },
-						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -1989,17 +1944,39 @@ Config = {
 				},
 			},
 		},
-		{ 	zoneEnable = true, -- Police Boats Paleto 1
-			job = "police",
+		{ 	zoneEnable = true, -- Police Boats BCSO 3
+			job = "bcso",
+			garage = {
+				spawn = vector4(3855.79, 4453.54, -0.47, 279.53),
+				out = vector4(3859.45, 4458.94, 1.83, 85.08),
+				list = {
+					["code3boat"] = {
+						CustomName = "BCSO Boat",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 6, 7, 8 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+				},
+			},
+		},
+		{ 	zoneEnable = true, -- Police Boats BCSO 4 (Paleto)
+			job = "bcso",
 			garage = {
 				spawn = vector4(-283.78, 6609.47, 0.03, 43.34),
 				out = vector4(-273.81, 6604.74, 1.77, 216.8),
 				list = {
 					["code3boat"] = {
-						CustomName = "LSPD Boat",
+						CustomName = "BCSO Boat",
 						livery = 0,
 						extras = { 1, 2, 3, 4, 5, 6, 7, 8 },
-						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -2021,7 +1998,7 @@ Config = {
 						CustomName = "LSPD Boat",
 						livery = 0,
 						extras = { 1, 2, 3, 4, 5, 6, 7, 8 },
-						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -2030,11 +2007,64 @@ Config = {
 							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
 						},
 					},
-					["libertyboat"] = {
-						CustomName = "SASP Boat",
+				},
+			},
+		},
+		{ 	zoneEnable = true, -- Police Boats LSPD 2
+			job = "police",
+			garage = {
+				spawn = vector4(-3316.79, 956.49, -0.37, 103.16),
+				out = vector4(-3305.99, 959.05, 2.04, 283.76),
+				list = {
+					["code3boat"] = {
+						CustomName = "LSPD Boat",
 						livery = 0,
 						extras = { 1, 2, 3, 4, 5, 6, 7, 8 },
-						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 },
+						rank = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+				},
+			},
+		},
+		{ 	zoneEnable = true, -- Police Boats SAPR 1
+			job = "sapr",
+			garage = {
+				spawn = vector4(-180.32, 786.95, 195.94, 137.88),
+				out = vector4(-186.92, 787.29, 198.11, 63.64),
+				list = {
+					["code3boat"] = {
+						CustomName = "SAPR Boat",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 6, 7, 8 },
+						rank = { 0, 1, 2, 3 },
+						performance = "max",
+						trunkItems = {
+							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
+							{ name = "empty_evidence_bag", amount = 20, info = {}, type = "item", slot = 2, },
+							{ name = "police_stormram", amount = 1, info = {}, type = "item", slot = 3, },
+							{ name = "harness", amount = 1, info = {}, type = "item", slot = 4, },
+						},
+					},
+				},
+			},
+		},
+		{ 	zoneEnable = true, -- Police Boats SAPR 2
+			job = "sapr",
+			garage = {
+				spawn = vector4(-128.51, 3905.74, 29.43, 271.21),
+				out = vector4(-150.86, 3905.2, 31.69, 95.26),
+				list = {
+					["code3boat"] = {
+						CustomName = "SAPR Boat",
+						livery = 0,
+						extras = { 1, 2, 3, 4, 5, 6, 7, 8 },
+						rank = { 0, 1, 2, 3 },
 						performance = "max",
 						trunkItems = {
 							{ name = "heavyarmor", amount = 3, info = {}, type = "item", slot = 1, },
@@ -3518,7 +3548,7 @@ Config = {
 			},
 		},
 		{ 	zoneEnable = true, -- BCSO SANDY SHORES HELI PAD
-		job = "police",
+		job = "bcso",
 		garage = {
 			spawn = vector4(1853.45, 3706.15, 33.97, 25.88),
 			out = vector4(1844.39, 3709.03, 33.97, 212.17),
@@ -3527,7 +3557,7 @@ Config = {
 						CustomName = "as332",
 						livery = 0,
 						extras = { 1, 2, 5, 6, 7, 8, 9, 11, 12},
-						rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 },
+						rank = { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
 						performance = "max",
 						trunkItems = {
 							{ name = "firstaid", amount = 6, info = {}, type = "item", slot = 1, },
