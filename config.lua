@@ -1,4 +1,6 @@
-print("^2Jim^7-^2JobGarage ^7v^41^7.^43^7.^42 ^7- ^2Job Garage Script by ^1Jimathy^7")
+print("^2Jim^7-^2JobGarage ^7v^41^7.^44^7.^43 ^7- ^2Job Garage Script by ^1Jimathy^7")
+
+Loc = {}
 
 --[[	LIST OF POSSIBLE VEHICLE MODIFIERS   ]]--
 -- Using these will change how each vehicle spawns
@@ -19,14 +21,24 @@ print("^2Jim^7-^2JobGarage ^7v^41^7.^43^7.^42 ^7- ^2Job Garage Script by ^1Jimat
 
 Config = {
 	Debug = false,  -- Enable to use debug features
+	Lan = "en",
+
+	Core = "qb-core",
+	Menu = "qb",
 	Notify = "qb",
-	CarDespawn = true, -- Sends the vehicle to hell
+
+	Fuel = "LegacyFuel", -- Set this to your fuel script folder
+
+	CarDespawn = true, -- Sends the vehicle to hell (removal animation)
+
+	DistCheck = false, -- Require the vehicle to be near by to remove it
+
 	Locations = {
 		{ 	zoneEnable = true, -- Luxury Motors
 			job = "cardealer",
 			garage = {
-				spawn = vector4(2657.6, 3480.22, 56.23, 336.56),
-				out = vector4(2661.35, 3477.65, 56.27, 74.02),
+				spawn = vec4(2657.6, 3480.22, 56.23, 336.56),
+				out = vec4(2661.35, 3477.65, 56.27, 74.02),
 				list = {
 					["caddy"] = {
 						CustomName = "Golf Caddy",
@@ -46,8 +58,8 @@ Config = {
 		{ 	zoneEnable = true, --LSPD MISSION ROW
 			job = "police",
 			garage = {
-				spawn = vector4(435.41, -975.93, 25.31, 90.86),
-				out = vector4(441.39, -974.78, 25.7, 178.49),
+				spawn = vec4(435.41, -975.93, 25.31, 90.86),
+				out = vec4(441.39, -974.78, 25.7, 178.49),
 				list = {
 					["code3cvpi"] = {
 						CustomName = "CPVI",
@@ -2079,8 +2091,8 @@ Config = {
 		{ 	zoneEnable = true, --FIRE HEADQUARTERS
 			job = "ambulance",
 			garage = {
-				spawn = vector4(-623.71, -106.54, 38.15, 84.98),
-				out = vector4(-623.62, -109.78, 38.15, 87.63),
+				spawn = vec4(-623.71, -106.54, 38.15, 84.98),
+				out = vec4(-623.62, -109.78, 38.15, 87.63),
 				list = {
 					["fd2"] = {
 						CustomName = "Ambulance",
